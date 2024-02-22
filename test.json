@@ -17,7 +17,7 @@
       "port": 443,
       "service": "HTTPS",
       "status": "closed"
-    }
+    },
     {
       "ip": "192.168.1.4",
       "port": 22,
