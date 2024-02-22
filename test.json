@@ -17,6 +17,6 @@
       "port": 443,
       "service": "HTTPS",
       "status": "closed"
-    },
+    }
   ]
 }
