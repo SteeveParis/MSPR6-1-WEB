@@ -18,17 +18,5 @@
       "service": "HTTPS",
       "status": "closed"
     },
-    {
-      "ip": "192.168.1.4",
-      "port": 22,
-      "service": "SSH",
-      "status": "open"
-    },
-    {
-      "ip": "192.168.1.5",
-      "port": 80,
-      "service": "HTTP",
-      "status": "closed"
-    },
   ]
 }
